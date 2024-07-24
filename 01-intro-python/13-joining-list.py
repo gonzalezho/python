@@ -1,5 +1,5 @@
 # Imagine you've got all your friends in a list, and you want to print it out.
-friends = ["Rolf", "Anne", "Charlie"]
+friends = ["Rolf", "Anne", "Charlie", "Mascherano"]
 print(f"My friends are {friends}.")
 
 # Not the prettiest, so instead you can join your friends using a ",":
