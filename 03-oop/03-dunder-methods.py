@@ -1,5 +1,6 @@
 from typing import List
 
+# Link: https://www.geeksforgeeks.org/dunder-magic-methods-python/
 class Garage:
     def __init__(self) -> None:
         self.cars: List[str] = []
